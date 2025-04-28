@@ -12,19 +12,16 @@ Each project in this repository has its own folder containing the following:
 - **Power BI**: Power BI reports and dashboards for data visualization.
 - **Data**: Raw CSV data used in each project.
 
-### Folder Structure:
-Portfolio/
-│
-├── data/                    # Raw data files (e.g., CSVs)
-│   ├── cafe_sales_proj1.csv
-│   ├── hotel_booking_proj2.csv
-│
-├── PostgreSQL/              # SQL scripts for cleaning and analysis
-│   ├── cafe_sales_cleaning_proj1.sql
-│   ├── cafe_sales_eda_proj1.sql
-│
-├── PowerBI_Reports/         # Power BI reports and dashboards
-│   ├── cafe_sales_dashboard.pbix
-│   ├── hotel_booking_dashboard.pbix
-│
-├── README.md                # Project overview and instructions
+## Folder Structure
+
+- **`data/`**: Raw CSV data files
+  - `cafe_sales_proj1.csv`
+  - `hotel_booking_proj2.csv`
+  
+- **`PostgreSQL/`**: SQL scripts for data cleaning and EDA
+  - `cafe_sales_cleaning_proj1.sql`
+  - `cafe_sales_eda_proj1.sql`
+  
+- **`PowerBI_Reports/`**: Power BI reports and dashboards
+  - `cafe_sales_dashboard.pbix`
+  - `hotel_booking_dashboard.pbix`
