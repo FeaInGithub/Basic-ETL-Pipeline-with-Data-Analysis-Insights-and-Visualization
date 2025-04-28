@@ -18,10 +18,10 @@ Each project in this repository has its own folder containing the following:
   - `cafe_sales_proj1.csv`
   - `hotel_booking_proj2.csv`
   
-- **`PostgreSQL/`**: SQL scripts for data cleaning and EDA
+- **`postgresql/`**: SQL scripts for data cleaning and EDA
   - `cafe_sales_cleaning_proj1.sql`
   - `cafe_sales_eda_proj1.sql`
   
-- **`PowerBI_Reports/`**: Power BI reports and dashboards
+- **`powerbi/`**: Power BI reports and dashboards
   - `cafe_sales_dashboard.pbix`
   - `hotel_booking_dashboard.pbix`
