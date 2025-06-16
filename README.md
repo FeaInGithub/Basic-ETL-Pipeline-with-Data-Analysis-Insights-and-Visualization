@@ -14,14 +14,20 @@ Each project in this repository has its own folder containing the following:
 
 ## Folder Structure
 
-- [**`data/`**: Raw CSV data files](https://github.com/FeaInGithub/data-analysis/tree/main/data)
-  - `cafe_sales_proj1.csv`
+- [**`data/`** – Raw CSV data files](https://github.com/FeaInGithub/data-analysis/tree/main/data)  
+  - `cafe_sales_proj1.csv`  
   - `hotel_booking_proj2.csv`
-  
-- [**`postgresql/`**: SQL scripts for data cleaning and EDA](https://github.com/FeaInGithub/data-analysis/tree/main/postgresql)
-  - `cafe_sales_cleaning_proj1.sql`
+
+- [**`postgresql/`** – SQL scripts for data cleaning and exploratory data analysis](https://github.com/FeaInGithub/data-analysis/tree/main/postgresql)  
+  - `cafe_sales_cleaning_proj1.sql`  
   - `cafe_sales_eda_proj1.sql`
-  
-- [**`powerbi/`**: Power BI reports and dashboards](https://github.com/FeaInGithub/data-analysis/tree/main/powerbi)
-  - `cafe_sales_dashboard.pbix`
-  - `hotel_booking_dashboard.pbix`
+
+- [**`powerbi/`** – Power BI reports and dashboards](https://github.com/FeaInGithub/data-analysis/tree/main/powerbi)  
+  - `cafe_sales/`  
+    - `Cafe Sales.pbix`  
+    - Cafe Sales screenshots (`.png`)  
+    - `Cafe Sales.pdf`  
+  - `hotel_booking/`  
+    - `Hotel Bookings.pbix`  
+    - Hotel Bookings screenshots (`.png`)  
+    - `Hotel Bookings.pdf`
