@@ -2,7 +2,7 @@
 
 This dashboard visualizes key sales performance metrics for a café business using Power BI. It provides insights into overall revenue, item performance, and sales trends to support data-driven decisions.
 
-![Dashboard](/cafe_sales_dashboard_overview.png)
+![Dashboard]([/cafe_sales_dashboard_overview.png](https://github.com/FeaInGithub/data-analysis/blob/main/powerbi/cafe_sales/cafe_sales_dashboard_overview.png))
 
 
 ## 📌 Key Metrics
