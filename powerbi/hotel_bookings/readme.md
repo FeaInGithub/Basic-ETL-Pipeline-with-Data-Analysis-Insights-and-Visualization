@@ -1,6 +1,6 @@
 # 🏨 Hotel Bookings Dashboard Overview (Power BI)
 
-This Power BI dashboard provides a comprehensive overview of hotel booking patterns, guest profiles, cancellation risks, and revenue insights. It is designed to help hotel managers and analysts make informed, data-driven decisions across operations and marketing.
+This Power BI dashboard provides a comprehensive overview of hotel booking patterns, guest profiles, cancellation risks, and revenue insights. It also highlights key performance indicators that reflect the hotel's operations and reputation.
 
 ![Dashboard_one](https://scontent.fmnl8-3.fna.fbcdn.net/v/t1.15752-9/518736235_641069555661518_4409469502950781118_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeG4rRbsFdNCWqy80S3SCKtkNqBwzI6cQnM2oHDMjpxCc7syyUDjEKCDslbPEl_5AU3cvHJWQ64Zbb65lG2yjK8Z&_nc_ohc=3cSbSBHOh0cQ7kNvwFHNjPg&_nc_oc=AdlZeglxjpoqCiQPXX_2MkKfINX8iCi3WKWXsXjAMvXPAqqc0DyRoGArw3Ck6s-l8Lc&_nc_zt=23&_nc_ht=scontent.fmnl8-3.fna&oh=03_Q7cD2wGO5SCrNBNlhvkQYHhLhlB2rT3tqrzzLqNDiKNtoZO4Og&oe=68A6AB87)
 ![Dashboard_two](https://scontent.fmnl8-1.fna.fbcdn.net/v/t1.15752-9/522357045_1034903535395367_4053854656803518033_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFv7S1XubPmMz8XRPMJRVrHwb_thIn8D2fBv-2EifwPZ662m2bAG5D8r79v6E-azee5txjMUTBZf7KYSsClnHeI&_nc_ohc=4udQ_2CW-rYQ7kNvwFk3Gh1&_nc_oc=AdnQOTNrxUK7BDjHtYaND01DlgrlkEQOdEkbXE_Z-2kQLbjcU83kB2J8ATFw91vQC2k&_nc_zt=23&_nc_ht=scontent.fmnl8-1.fna&oh=03_Q7cD2wGxp9p1dzkxSImSKH_iUmxC68eaMFeRnwiMWDBZJ5w8PA&oe=68A67BC9)
@@ -23,7 +23,7 @@ This Power BI dashboard provides a comprehensive overview of hotel booking patte
 ## 📈 Dashboard Sections
 
 ### 1. Booking Behavior & Guest Profile  
-Analyzes how guests book and who they are, helping identify trends and opportunities to tailor guest experiences.
+Provides an overview of how guests interact with the hotel—how they book, where they come from, and who they are. These patterns help assess the hotel's appeal to different markets and guest types.
 
 **Includes:**
 - Total bookings
@@ -38,7 +38,7 @@ Analyzes how guests book and who they are, helping identify trends and opportuni
 ---
 
 ### 2. Cancellations & Booking Risk  
-Evaluates patterns and indicators linked to cancellations, helping reduce lost revenue and improve forecasting.
+Explores behaviors related to cancellations and booking reliability. High cancellation rates or frequent changes can reflect guest satisfaction, trust, or perception of the hotel.
 
 **Includes:**
 - Canceled bookings (% of total)
@@ -55,7 +55,7 @@ Evaluates patterns and indicators linked to cancellations, helping reduce lost r
 ---
 
 ### 3. Revenue & Room Insights  
-Tracks financial performance and room usage to support pricing, marketing, and operations strategies.
+Highlights guest preferences and hotel fulfillment by looking at room assignment accuracy, revenue patterns, and requests. These insights offer an indirect view of guest satisfaction and operational consistency.
 
 **Includes:**
 - Total revenue (KPI)
@@ -70,7 +70,7 @@ Tracks financial performance and room usage to support pricing, marketing, and o
 ---
 
 ## 💡 Key Insights
-
+-- later
 
 
 
