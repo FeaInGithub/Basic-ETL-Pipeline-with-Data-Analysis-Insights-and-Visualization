@@ -69,8 +69,25 @@ Highlights guest preferences and hotel fulfillment by looking at room assignment
 
 ---
 
-## 💡 Key Insights
--- later
+## 📌 Key Insights
 
+### 🧳 Booking Behaviour & Guest Profile
+- Most guests are transient rather than part of a group or long-term stay.
+- Portugal, the UK, and France are the top countries where guests come from.
+- Guests commonly book through online travel agencies.
+- August has the highest number of bookings, indicating peak seasonality.
+- TA/TO (Travel Agent/Tour Operator) is the most used distribution channel.
 
+### ❌ Cancellations & Booking Risk
+- A large number of bookings are canceled, with many made well in advance — even more than a year before arrival.
+- Guests booking online and opting for flexible policies are more likely to cancel.
+- First-time visitors are more prone to cancel their reservations.
+- Booking changes and waiting list times are minimal, indicating stable reservations and efficient booking handling.
 
+### 💰 Revenue & Room Insights
+- The hotel has earned around 42.7 million in revenue.
+- August shows the highest average daily rates, especially among OTA (Online Travel Agent) users.
+- Bed and breakfast is the most common meal package, followed by half board.
+- Room assignments were generally accurate, with around 86% of bookings receiving the exact room type they reserved. Only a small portion (14%) experienced mismatches, which could be due to operational adjustments or overbooking.
+- While only a small portion of guests requested parking, the hotel generally met those needs, indicating consistent but manageable demand.
+  
