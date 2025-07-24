@@ -28,6 +28,6 @@ Each project in this repository has its own folder containing the following:
     - Cafe Sales screenshots (`.png`)  
     - `Cafe Sales.pdf`  
   - `hotel_booking/`  
-    - `Hotel Bookings.pbix`  
+    - `hotel_bookings.pbix`  
     - Hotel Bookings screenshots (`.png`)  
-    - `Hotel Bookings.pdf`
+    - `hotel_bookings.pdf`
