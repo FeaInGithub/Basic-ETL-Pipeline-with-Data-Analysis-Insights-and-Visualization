@@ -34,5 +34,5 @@ Each project in this repository has its own folder containing the following:
     - Hotel Bookings screenshots (`.png`)  
     - `hotel_bookings.pdf`
 - [**`python/`** – Jupyter notebooks for data cleaning and visualization.](https://github.com/FeaInGithub/data-analysis/tree/main/python)  
-  - Data Cleaning
-  - EDA
+  - data cleaning
+  - eda
