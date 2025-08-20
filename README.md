@@ -1,17 +1,16 @@
 # Data Analysis Portfolio
 
-This repository contains a collection of data analysis projects I have worked on, including data cleaning, exploratory data analysis (EDA), and visualizations.
+This repository contains a collection of data analysis projects I have worked on, including data cleaning, exploratory data analysis (EDA), and visualizations (both exploratory and final dashboards).
 
 ## Tools Used
 - **PostgreSQL**: Used for data cleaning and performing exploratory data analysis (EDA) on the datasets.
-- **Python**: Used for data cleaning and building visualizations.
-- **Power BI**: Used for creating visualizations and interactive reports after data cleaning and EDA.
-
+- **Python**: Used for data cleaning, EDA, and building supporting visualizations.
+- **Power BI**: Used for creating polished, interactive visualizations and reports after EDA.
 
 ## Projects
 Each project in this repository has its own folder containing the following:
 - **PostgreSQL**: SQL scripts for data cleaning and EDA.
-- **Python**: Jupyter notebooks for data cleaning and visualization.
+- **Python**: Jupyter notebooks for data cleaning, EDA, and exploratory visualizations.
 - **Power BI**: Power BI reports and dashboards for data visualization.
 - **Data**: Raw CSV data used in each project.
 
@@ -36,4 +35,4 @@ Each project in this repository has its own folder containing the following:
     - `hotel_bookings.pdf`
 - [**`python/`** – Jupyter notebooks for data cleaning and visualization.](https://github.com/FeaInGithub/data-analysis/tree/main/python)  
   - Data Cleaning
-  - Data Visualization
+  - EDA
