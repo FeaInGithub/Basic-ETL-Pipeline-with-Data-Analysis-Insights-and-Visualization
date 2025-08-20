@@ -33,6 +33,6 @@ Each project in this repository has its own folder containing the following:
     - `hotel_bookings.pbix`  
     - Hotel Bookings screenshots (`.png`)  
     - `hotel_bookings.pdf`
-- [**`python/`** – Jupyter notebooks for data cleaning and visualization.](https://github.com/FeaInGithub/data-analysis/tree/main/python)  
+- [**`python/`** – Jupyter notebooks for data cleaning, EDA, and supporting visualization.](https://github.com/FeaInGithub/data-analysis/tree/main/python)  
   - data cleaning
   - eda
