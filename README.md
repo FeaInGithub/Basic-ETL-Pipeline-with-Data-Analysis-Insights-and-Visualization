@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# Data Analysis Portfolio (Ongoing)
 
 This repository contains a collection of data analysis projects I have worked on, including data cleaning, exploratory data analysis (EDA), and visualizations (both exploratory and final dashboards).
 
