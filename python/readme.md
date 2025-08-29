@@ -1,3 +1,3 @@
 ## Python
 
-In this section, I showcase my data cleaning, exploratory data analysis (EDA), and basic visualizations created with **Matplotlib** and **Seaborn**.
+In this section, I showcase my work in data cleaning, exploratory data analysis (EDA), and basic visualizations using **Matplotlib** and **Seaborn** in **Jupyter Notebook**.
