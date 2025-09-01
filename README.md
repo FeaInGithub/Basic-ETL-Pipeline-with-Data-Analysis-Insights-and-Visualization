@@ -1,4 +1,4 @@
-# Data Analysis Portfolio (Ongoing)
+# Data Analysis Portfolio
 
 This repository contains a collection of data analysis projects I have worked on, including data cleaning, exploratory data analysis (EDA), and visualizations (both exploratory and final dashboards).
 
@@ -33,6 +33,6 @@ Each project in this repository has its own folder containing the following:
     - `hotel_bookings.pbix`  
     - Hotel Bookings screenshots (`.png`)  
     - `hotel_bookings.pdf`
-- [**`python/`** – Jupyter notebooks for data cleaning, EDA, and supporting visualization.](https://github.com/FeaInGithub/data-analysis/tree/main/python)  
+- [**`python/`** – Jupyter notebooks for data cleaning, EDA, and supporting visualization.](https://github.com/FeaInGithub/data-analysis/tree/main/python) (Ongoing)
   - data cleaning
   - eda
