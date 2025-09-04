@@ -46,8 +46,7 @@ Each project folder includes:
 
 ## 🔹 Highlights
 - Designed and implemented a **basic ETL pipeline** from raw CSV files  
-- Built **normalized PostgreSQL tables** and performed complex SQL queries  
-- Conducted **in-depth exploratory data analysis (EDA)** using Python  
+- Conducted **in-depth exploratory data analysis (EDA)** using Python and PostgreSQL
 - Created **interactive dashboards** in Power BI to communicate insights  
 
 ---
