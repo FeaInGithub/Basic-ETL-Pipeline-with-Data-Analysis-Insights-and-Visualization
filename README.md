@@ -1,38 +1,53 @@
-# Data Analysis Portfolio
+# Basic ETL Pipeline with Data Analysis, Insights, and Visualization
 
-This repository contains a collection of data analysis projects I have worked on, including data cleaning, exploratory data analysis (EDA), and visualizations (both exploratory and final dashboards).
+This repository showcases end-to-end data projects where I:  
+- **Extracted** raw datasets (CSV files)  
+- **Transformed** and cleaned them using Python and SQL  
+- **Loaded** them into PostgreSQL for structured analysis  
+- Delivered **insights and visualizations** through Python plots and Power BI dashboards  
 
-## Tools Used
-- **PostgreSQL**: Used for data cleaning and performing exploratory data analysis (EDA) on the datasets.
-- **Python**: Used for data cleaning, EDA, and building supporting visualizations.
-- **Power BI**: Used for creating polished, interactive visualizations and reports after EDA.
+---
 
-## Projects
-Each project in this repository has its own folder containing the following:
-- **PostgreSQL**: SQL scripts for data cleaning and EDA.
-- **Python**: Jupyter notebooks for data cleaning, EDA, and exploratory visualizations.
-- **Power BI**: Power BI reports and dashboards for data visualization.
-- **Data**: Raw CSV data used in each project.
+## 🔹 Tools Used
+- **PostgreSQL** – Data modeling, cleaning, and exploratory data analysis (EDA)  
+- **Python** – Data cleaning, EDA, and supporting visualizations (Matplotlib/Seaborn)  
+- **Power BI** – Polished, interactive dashboards and final presentations  
 
-## Folder Structure
+---
 
-- [**`data/`** – Raw CSV data files](https://github.com/FeaInGithub/data-analysis/tree/main/data)  
+## 🔹 Projects
+Each project folder includes:  
+- **PostgreSQL scripts** for cleaning, transformations, and analysis  
+- **Python notebooks** for additional EDA and visualizations  
+- **Power BI reports** with interactive dashboards  
+- **Raw data files** for full reproducibility  
+
+---
+
+## 🔹 Folder Structure
+
+- [**`data/`** – Raw data files](https://github.com/FeaInGithub/data-analysis/tree/main/data)  
   - `cafe_sales_proj1.csv`  
-  - `hotel_booking_proj2.csv`
+  - `hotel_booking_proj2.csv`  
 
-- [**`postgresql/`** – SQL scripts for data cleaning and exploratory data analysis](https://github.com/FeaInGithub/data-analysis/tree/main/postgresql)  
+- [**`postgresql/`** – SQL scripts](https://github.com/FeaInGithub/data-analysis/tree/main/postgresql)  
   - `cafe_sales_cleaning_proj1.sql`  
-  - `cafe_sales_eda_proj1.sql`
+  - `cafe_sales_eda_proj1.sql`  
 
-- [**`powerbi/`** – Power BI reports and dashboards](https://github.com/FeaInGithub/data-analysis/tree/main/powerbi)  
-  - `cafe_sales/`  
-    - `Cafe Sales.pbix`  
-    - Cafe Sales screenshots (`.png`)  
-    - `Cafe Sales.pdf`  
-  - `hotel_booking/`  
-    - `hotel_bookings.pbix`  
-    - Hotel Bookings screenshots (`.png`)  
-    - `hotel_bookings.pdf`
-- [**`python/`** – Jupyter notebooks for data cleaning, EDA, and supporting visualization.](https://github.com/FeaInGithub/data-analysis/tree/main/python) (Ongoing)
+- [**`powerbi/`** – Power BI dashboards](https://github.com/FeaInGithub/data-analysis/tree/main/powerbi)  
+  - `cafe_sales/` (PBIX, screenshots, PDF)  
+  - `hotel_booking/` (PBIX, screenshots, PDF)  
+
+- [**`python/`** – Jupyter notebooks](https://github.com/FeaInGithub/data-analysis/tree/main/python)  
   - data cleaning
   - eda
+
+---
+
+## 🔹 Highlights
+- Designed and implemented a **basic ETL pipeline** from raw CSV files  
+- Built **normalized PostgreSQL tables** and performed complex SQL queries  
+- Conducted **in-depth exploratory data analysis (EDA)** using Python  
+- Created **interactive dashboards** in Power BI to communicate insights  
+
+---
