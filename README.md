@@ -1,6 +1,6 @@
 # Basic ETL Pipeline with Data Analysis, Insights, and Visualization
 
-This repository showcases end-to-end data projects where I:  
+This repository showcases data projects where I:  
 - **Extracted** raw datasets (CSV files)  
 - **Transformed** and cleaned them using Python and SQL  
 - **Loaded** them into PostgreSQL for structured analysis  
@@ -9,7 +9,7 @@ This repository showcases end-to-end data projects where I:
 ---
 
 ## 🔹 Tools Used
-- **PostgreSQL** – Data modeling, cleaning, and exploratory data analysis (EDA)  
+- **PostgreSQL** – Data cleaning, and exploratory data analysis (EDA)  
 - **Python** – Data cleaning, EDA, and supporting visualizations (Matplotlib/Seaborn)  
 - **Power BI** – Polished, interactive dashboards and final presentations  
 
